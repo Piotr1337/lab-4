@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Nigini Abilio - nigini@gmail.com
- */
 public class SignGuestbookServlet extends HttpServlet {
     private static final Logger log = Logger.getLogger(SignGuestbookServlet.class.getName());
 
